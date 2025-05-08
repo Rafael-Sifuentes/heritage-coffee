@@ -574,6 +574,13 @@ img{
 .contact-img{
     z-index: -1;
 }
+
+.etx{
+    font-size: var(--small-font-size);
+    margin-top: 3rem;
+    font-weight: var(--font-bold);
+    /* text-align: center; */
+}
 /*-============================================================================================- */
 
 
